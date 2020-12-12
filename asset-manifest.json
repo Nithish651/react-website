@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CAMP_FIRST_REACT_APP/static/css/main.bd67cc4e.chunk.css",
-    "main.js": "/CAMP_FIRST_REACT_APP/static/js/main.9d5d1c31.chunk.js",
-    "main.js.map": "/CAMP_FIRST_REACT_APP/static/js/main.9d5d1c31.chunk.js.map",
-    "runtime-main.js": "/CAMP_FIRST_REACT_APP/static/js/runtime-main.a01387ec.js",
-    "runtime-main.js.map": "/CAMP_FIRST_REACT_APP/static/js/runtime-main.a01387ec.js.map",
-    "static/js/2.abb92bcc.chunk.js": "/CAMP_FIRST_REACT_APP/static/js/2.abb92bcc.chunk.js",
-    "static/js/2.abb92bcc.chunk.js.map": "/CAMP_FIRST_REACT_APP/static/js/2.abb92bcc.chunk.js.map",
-    "index.html": "/CAMP_FIRST_REACT_APP/index.html",
-    "static/css/main.bd67cc4e.chunk.css.map": "/CAMP_FIRST_REACT_APP/static/css/main.bd67cc4e.chunk.css.map",
-    "static/js/2.abb92bcc.chunk.js.LICENSE.txt": "/CAMP_FIRST_REACT_APP/static/js/2.abb92bcc.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/CAMP_FIRST_REACT_APP/static/media/img-8.fabdf94d.jpg",
-    "static/media/TitleSection.css": "/CAMP_FIRST_REACT_APP/static/media/img-home.c034239e.jpg"
+    "main.css": "/react-website/static/css/main.de909a89.chunk.css",
+    "main.js": "/react-website/static/js/main.9d5d1c31.chunk.js",
+    "main.js.map": "/react-website/static/js/main.9d5d1c31.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.1166d0f9.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.1166d0f9.js.map",
+    "static/js/2.abb92bcc.chunk.js": "/react-website/static/js/2.abb92bcc.chunk.js",
+    "static/js/2.abb92bcc.chunk.js.map": "/react-website/static/js/2.abb92bcc.chunk.js.map",
+    "index.html": "/react-website/index.html",
+    "static/css/main.de909a89.chunk.css.map": "/react-website/static/css/main.de909a89.chunk.css.map",
+    "static/js/2.abb92bcc.chunk.js.LICENSE.txt": "/react-website/static/js/2.abb92bcc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-website/static/media/img-8.fabdf94d.jpg",
+    "static/media/TitleSection.css": "/react-website/static/media/img-home.c034239e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a01387ec.js",
+    "static/js/runtime-main.1166d0f9.js",
     "static/js/2.abb92bcc.chunk.js",
-    "static/css/main.bd67cc4e.chunk.css",
+    "static/css/main.de909a89.chunk.css",
     "static/js/main.9d5d1c31.chunk.js"
   ]
 }
